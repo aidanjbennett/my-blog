@@ -38,10 +38,10 @@ module.exports = function (environment) {
           route: "page",
           id: "aidan-bennett",
         },
-        {
-          label: "Github",
-          route: "link",
-          id: "https://github.com/aidanbennett2",
+     //   {
+      //    label: "Github",
+       //   route: "link",
+       //   id: "https://github.com/aidanbennett2",
         },
       ],
     },
