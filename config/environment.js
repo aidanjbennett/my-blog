@@ -42,6 +42,10 @@ module.exports = function (environment) {
           label: "Github",
           link: "https://github.com/aidanbennett2",
         },
+        {
+          label: "Twitter",
+          link: "https://twitter.com/aidanbennettdev",
+        },
       ],
     },
 
