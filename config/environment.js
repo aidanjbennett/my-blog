@@ -34,9 +34,9 @@ module.exports = function (environment) {
           route: "index",
         },
         {
-          label: "Built by Chris Manson",
+          label: "Built by Aidan Bennett",
           route: "page",
-          id: "chris-manson",
+          id: "aidan-bennett",
         },
       ],
     },
