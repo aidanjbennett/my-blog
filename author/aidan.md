@@ -1,5 +1,5 @@
 ---
-name: Aidan
+name: Aidan Bennett
 id: aidan
 image:
 coverImage:
