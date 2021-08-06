@@ -10,9 +10,6 @@ authors:
 date: Fri Aug 06 2021 16:03:51 GMT+0100 (British Summer Time)
 tags:
   - new
-  - aidan
-  - intro
-  - life
 ---
 
 # Write Me
