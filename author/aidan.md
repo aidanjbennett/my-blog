@@ -1,7 +1,7 @@
 ---
 name: Aidan Bennett
 id: aidan
-image: images/aidan.png
+image: /images/aidan.png
 coverImage:
 website: aidanbennett.me
 twitter: aidanbennettdev
