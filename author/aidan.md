@@ -10,3 +10,4 @@ location: Nottingham, United Kingdom
 ---
 
 Aidan is a developer from Nottingham in England. He is currently learning frontend javascript and python.
+In his spare time he plays video games and works on his discord bot.
