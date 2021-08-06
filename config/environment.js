@@ -34,7 +34,7 @@ module.exports = function (environment) {
           route: "index",
         },
         {
-          label: "Built by Aidan Bennett",
+          label: "About me",
           route: "page",
           id: "aidan-bennett",
         },
