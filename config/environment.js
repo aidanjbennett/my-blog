@@ -29,10 +29,10 @@ module.exports = function (environment) {
       coverImage: "/images/blog-cover.jpg",
 
       navigation: [
-        {
-          label: "Home",
-          route: "index",
-        },
+        //  {
+        //    label: "Home",
+        //    route: "index",
+        //  },
         {
           label: "About me",
           route: "page",
