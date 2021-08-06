@@ -13,5 +13,5 @@ tags:
 ---
 
 Hi this is my first blog post. To start things off here is a small intro about me.
-I am digital tech student in Nottingham, England. I am currently learning frontend development with javascript and css.
-With this blog I will aim to post once a week to write about what I have learned that month excluding when I am holiday.
+I am digital tech student in Nottingham, England. I am currently learning frontend development with javascript and css in my spare time.
+With this blog I will aim to post once a week to write about what I have learned that week excluding when I am holiday.
