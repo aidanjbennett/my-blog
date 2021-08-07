@@ -27,6 +27,7 @@ module.exports = function (environment) {
       title: "Aidan Bennett",
       description: "This is Aidan's Blog built with Ember",
       coverImage: "/images/blog-cover.jpg",
+      host: "https://blog.aidanbennett.me",
 
       navigation: [
         //  {
