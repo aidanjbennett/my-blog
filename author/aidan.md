@@ -9,5 +9,5 @@ facebook:
 location: Nottingham, United Kingdom
 ---
 
-Aidan is a developer from Nottingham in England. He is currently learning frontend javascript and python.
+Aidan is a developer from Nottingham in England. He is currently learning frontend javascript.
 In his spare time he plays video games and works on his discord bot.
