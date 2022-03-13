@@ -27,7 +27,7 @@ module.exports = function (environment) {
       title: "Aidan Bennett",
       description: "This is Aidan's Blog built with Ember",
       coverImage: "/images/blog-cover.jpg",
-      host: "https://blog.aidanbennett.me",
+      host: "https://blog.aidan.to",
 
       navigation: [
         //  {
@@ -41,11 +41,11 @@ module.exports = function (environment) {
         },
         {
           label: "Github",
-          link: "https://github.com/aidanbennett2",
+          link: "https://github.com/aidanjbennett",
         },
         {
           label: "Twitter",
-          link: "https://twitter.com/aidanbennettdev",
+          link: "https://twitter.com/aidanjbennett",
         },
       ],
     },
